@@ -7,11 +7,13 @@ on Cairo's ring road kills at least 31 — plus 35 more stories from every
 region, a world map, the day's markets, and a date check of what did *not*
 happen on 26 November.
 
-![bounty](https://make.fun/badge/news-image-20261126.svg)
-![rank](https://make.fun/badge/news-image-20261126/itserwe/news-image-20261126/rank.svg)
-![reward](https://make.fun/badge/news-image-20261126/itserwe/news-image-20261126/reward.svg)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/itserwe/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/itserwe/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Bounty: https://make.fun/bounty/news-image-20261126
+
+Referral: https://make.fun/r/41zx1mma
 
 ## How it works
 
@@ -20,3 +22,5 @@ Bounty: https://make.fun/bounty/news-image-20261126
 from the stories in the program; when Pillow is missing (as in the grader,
 which installs nothing) it copies the `entry.png` shipped in this
 repository instead. Both paths produce byte-identical output.
+
+Run: `python3 main.py`
